@@ -1,0 +1,28 @@
+* {
+   box-sizing: border-box;
+}
+
+.container {
+   max-width: 1200px;
+   margin: 0 auto;
+   padding: 0 15px;
+}
+
+h1 {
+   text-align: center;
+}
+
+li {
+   font-size: 20px;
+   font-weight: 700;
+}
+
+.out {
+   text-align: center;
+   font-weight: 600;
+}
+
+.best_movies {
+   font-size: 30px;
+   text-align: center;
+}
